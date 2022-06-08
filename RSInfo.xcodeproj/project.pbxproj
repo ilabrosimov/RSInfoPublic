@@ -16,7 +16,6 @@
 		0465F15026E91BE800BDA67C /* PasscodeField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0465F14F26E91BE800BDA67C /* PasscodeField.swift */; };
 		046C9923272D654500B08104 /* CustomBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046C9922272D654500B08104 /* CustomBackground.swift */; };
 		0485EAB026EDEEC800B64DD0 /* LectList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0485EAAF26EDEEC800B64DD0 /* LectList.swift */; };
-		049C18F826CECFCB0049C32F /* jsonRespond.txt in Resources */ = {isa = PBXBuildFile; fileRef = 049C18F726CECFCA0049C32F /* jsonRespond.txt */; };
 		04B097A526B95267008534E2 /* CourseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B097A426B95267008534E2 /* CourseView.swift */; };
 		04B6B423273A829F00299AED /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B6B422273A829F00299AED /* DataModel.swift */; };
 		04BDE95126E7C66E00B2939A /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDE95026E7C66E00B2939A /* NetworkManager.swift */; };
@@ -41,7 +40,6 @@
 		0465F14F26E91BE800BDA67C /* PasscodeField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasscodeField.swift; sourceTree = "<group>"; };
 		046C9922272D654500B08104 /* CustomBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBackground.swift; sourceTree = "<group>"; };
 		0485EAAF26EDEEC800B64DD0 /* LectList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LectList.swift; sourceTree = "<group>"; };
-		049C18F726CECFCA0049C32F /* jsonRespond.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = jsonRespond.txt; sourceTree = SOURCE_ROOT; };
 		04B097A426B95267008534E2 /* CourseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseView.swift; sourceTree = "<group>"; };
 		04B6B422273A829F00299AED /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
 		04BDE95026E7C66E00B2939A /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
@@ -156,7 +154,6 @@
 			isa = PBXGroup;
 			children = (
 				0485EAAF26EDEEC800B64DD0 /* LectList.swift */,
-				049C18F726CECFCA0049C32F /* jsonRespond.txt */,
 				04F3B19626B7EDB9000AD1A1 /* Assets.xcassets */,
 				04F3B19B26B7EDB9000AD1A1 /* Info.plist */,
 			);
@@ -220,7 +217,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				049C18F826CECFCB0049C32F /* jsonRespond.txt in Resources */,
 				04F3B19A26B7EDB9000AD1A1 /* Preview Assets.xcassets in Resources */,
 				04F3B19726B7EDB9000AD1A1 /* Assets.xcassets in Resources */,
 			);
